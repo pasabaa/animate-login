@@ -1,0 +1,22 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(4, 4, 4);
+}
+
+.bg-dark-variant {
+  background-color: rgb(16, 16, 16);
+  color: #fefefe;
+}
+
+.fs-8 {
+  font-size: 14px;
+}
+
+.hidden-scroll {
+  overflow-x: hidden;
+}
+
+.register {
+  z-index: -10;
+  opacity: 0;
+}
